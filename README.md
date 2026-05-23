@@ -1,7 +1,6 @@
 # Clean Architecture — Flutter (BLoC / Cubit / get_it)
 
 A concise learning project demonstrating Clean Architecture in Flutter using BLoC/Cubit for state management and `get_it` for dependency injection. This repository is intended as a study scaffold — focused on structure, boundaries, and testability rather than a full production app.
-
 **Overview**
 
 - **Goal:** Learn how to structure a Flutter app with clean separation of concerns (presentation, domain, data), manage state with BLoC/Cubit, and wire dependencies with `get_it`.
